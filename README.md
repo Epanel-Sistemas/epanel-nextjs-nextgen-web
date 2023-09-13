@@ -12,6 +12,7 @@
 
 ## Dependencies
 - Node js => v16
+- Yarn
 
 ## Up and Running
 - Install dependencies `yarn (or npm i)`
