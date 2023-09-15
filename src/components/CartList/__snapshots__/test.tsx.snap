@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CartList /> should render the cart list 1`] = `
+<div
+  class="flex flex-col gap-2"
+  data-cy="cart-list"
+>
+  <div
+    class="flex flex-col gap-2"
+  >
+    <div
+      class="flex flex-col gap-2"
+      data-cy="game-item"
+    >
+      <div
+        class="flex flex-col gap-2"
+      >
+        <span>
+          The Legend of Adventure
+        </span>
+        <div>
+          <span>
+            $10.50
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex flex-col gap-2"
+      data-cy="game-item"
+    >
+      <div
+        class="flex flex-col gap-2"
+      >
+        <span>
+          Galactic Odyssey
+        </span>
+        <div>
+          <span>
+            $10.50
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <span>
+      Total:
+    </span>
+    <span>
+      R$ 330,00
+    </span>
+  </div>
+</div>
+`;
